@@ -12,13 +12,18 @@
 ## Portfolio ##
 ### Toy Store App GUI ###
 ##### What? #####
-- Developed a Toy Store application with a text file database management capabilities, including features for adding, removing, and tracking toys, where each toy has unique serial numbers, prices, and stock levels.
-- Structured and implemented the backend framework to ensure scalability and maintainability of the application, while applying the MVC architecture to organize each class.
-- Implemented a Logging class for real-time activity within the application, alongside GUI enhancements for improved user interaction, robust input validation for data integrity, and seamless data persistence through database integration
-- Conducted unit tests on components, including valid toys in the database, to ensure quality assurance 
+- Structured and implemented the backend framework using MVC architecture for scalability and maintainability, with a Logging class for real-time activity and Exceptions classes for robust input validation for data integrity.
+- Enhanced the GUI for improved user interaction and achieved seamless data persistence through database integration.
+- Conducted unit tests on components, including valid toys in the database, to ensure quality assurance.
 ##### How? #####
-- The main language for the backend is Java, which provides a strong and versatile foundation for the application's core logic and functionality. For the frontend, XML and Scene Builder were utilized, enabling a user-friendly and visually appealing interface. 
-- For testing, JUnit was the primary tool utilized, providing a robust framework for writing and running repeatable tests. It facilitated the creation of comprehensive test cases, ensuring the reliability and correctness of the code.
+- Backend Language: Java, providing a robust and versatile foundation for core logic and functionality.
+- Frontend Development: Utilized XML and Scene Builder for creating a user-friendly and visually appealing interface.
+- Testing Framework: Used JUnit to create and run comprehensive test cases, ensuring code reliability and correctness.
+##### Result? #####
+- A robust and scalable Toy Store application with effective text file database management capabilities.
+- Enhanced user interaction through a well-designed GUI and real-time activity logging, along with improved data integrity.
+- Reliable application performance ensured by comprehensive unit tests, demonstrating high maintainability and scalability.
+
    
   
   
