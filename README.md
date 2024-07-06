@@ -19,7 +19,7 @@
 - Backend Language: Java, providing a robust and versatile foundation for core logic and functionality.
 - Frontend Development: Utilized XML and Scene Builder for creating a user-friendly and visually appealing interface.
 - Testing Framework: Used JUnit to create and run comprehensive test cases, ensuring code reliability and correctness.
-##### Result? #####
+##### Results? #####
 - A robust and scalable Toy Store application with effective text file database management capabilities.
 - Enhanced user interaction through a well-designed GUI and real-time activity logging, along with improved data integrity.
 - Reliable application performance ensured by comprehensive unit tests, demonstrating high maintainability and scalability.
