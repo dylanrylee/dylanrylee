@@ -11,12 +11,12 @@
 
 ## Portfolio ##
 #### Toy Store App GUI ####
-**What?**
+##### What? #####
 - Developed a Toy Store application with a text file database management capabilities, including features for adding, removing, and tracking toys, where each toy has unique serial numbers, prices, and stock levels.
 - Structured and implemented the backend framework to ensure scalability and maintainability of the application, while applying the MVC architecture to organize each class.
 - Implemented a Logging class for real-time activity within the application, alongside GUI enhancements for improved user interaction, robust input validation for data integrity, and seamless data persistence through database integration
 - Conducted unit tests on components, including valid toys in the database, to ensure quality assurance 
-<br><br>**How?**
+##### How? #####
 - The main language for the backend is Java, which provides a strong and versatile foundation for the application's core logic and functionality. For the frontend, XML and Scene Builder were utilized, enabling a user-friendly and visually appealing interface. 
 - For testing, JUnit was the primary tool utilized, providing a robust framework for writing and running repeatable tests. It facilitated the creation of comprehensive test cases, ensuring the reliability and correctness of the code.
    
