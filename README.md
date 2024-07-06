@@ -10,7 +10,7 @@
 🚀 I'm excited to keep learning and growing in the world of technology. Every day is a chance to discover something new and push myself further. I'm eager to connect with others who share my passion and see how we can collaborate to create amazing things together. Let's chat and explore the possibilities!
 
 ## Portfolio ##
-#### Toy Store App GUI ####
+### Toy Store App GUI ###
 ##### What? #####
 - Developed a Toy Store application with a text file database management capabilities, including features for adding, removing, and tracking toys, where each toy has unique serial numbers, prices, and stock levels.
 - Structured and implemented the backend framework to ensure scalability and maintainability of the application, while applying the MVC architecture to organize each class.
