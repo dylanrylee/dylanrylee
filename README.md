@@ -8,3 +8,5 @@
 🎸 When I'm not buried in code, you'll find me strumming my guitar. Music has been a big part of my life since I was young, and it's my way of unwinding and expressing myself. 
 
 🚀 I'm excited to keep learning and growing in the world of technology. Every day is a chance to discover something new and push myself further. I'm eager to connect with others who share my passion and see how we can collaborate to create amazing things together. Let's chat and explore the possibilities!
+
+<p style='text-align: justify;'> Your Text </p>
