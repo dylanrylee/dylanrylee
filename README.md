@@ -1,4 +1,6 @@
-## Hi I'm Dylan!
+# Hi I'm Dylan! #
+
+### About Me ###
 👋 Hi there! I'm Dylan Dizon, a Computer Science student at the University of Calgary. Originally, I'm from the Philippines, but I've been calling Canada home since 2015. 
 
 🌟 I'm really into figuring things out and making cool stuff with computers. From writing code to building programs, I'm always eager to dive into new challenges. Right now, I'm currently diving deeper into Python Programming, and Web Development, trying to expand my knowledge and skills by building projects that I am passionate about. I'm also very interested in mathematics, and I am currently enjoying self-learning the mathematics behind Artificial Intelligence and Machine Learning. 
