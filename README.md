@@ -25,15 +25,15 @@
 - Reliable application performance ensured by comprehensive unit tests, demonstrating high maintainability and scalability.
 
 ### Web Object Downloader ###
-#### What? ####
+##### What? #####
 - Developed a WebClient program for downloading web objects from URLs.
 - Implemented functionality to handle both text and binary file downloads.
 = Ensured compliance with HTTP/1.1 protocols for secure and non-secure connections.
-#### How? ####
+##### How? #####
 - Established TCP connections and constructed GET requests for data retrieval.
 - Used Sockets, InputStream, and OutputStream to manage data transfer effectively.
 - Parsed server responses manually to handle different file types and formats.
-#### Results? ####
+##### Results? #####
 - Successfully downloaded and stored text and binary files locally.
 - Achieved seamless handling of secure (HTTPS) and non-secure (HTTP) connections.
 - Demonstrated reliable and efficient data transfer, adhering to web standards.
