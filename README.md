@@ -28,7 +28,7 @@
 ##### What? #####
 - Developed a WebClient program for downloading web objects from URLs.
 - Implemented functionality to handle both text and binary file downloads.
-= Ensured compliance with HTTP/1.1 protocols for secure and non-secure connections.
+- Ensured compliance with HTTP/1.1 protocols for secure and non-secure connections.
 ##### How? #####
 - Established TCP connections and constructed GET requests for data retrieval.
 - Used Sockets, InputStream, and OutputStream to manage data transfer effectively.
