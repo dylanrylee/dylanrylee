@@ -47,13 +47,17 @@
 ![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-Group of 3 | Feb. 2025 - Apr. 2025
+**Group of 3 | Feb. 2025 - Apr. 2025**
 - Built a full-stack CRUD museum management app with React, Django REST API, and MySQL, using JWT auth and raw SQL, resulting in a secure, multi-role platform for managing users, artifacts, events, and exhibits. 
 - Led the frontend & backend development, creating custom REST endpoints with @api_view and integrating them via axios and fetch, resulting in seamless data flow and real-time interactivity. 
 - Collaborated in a 3-person Agile-style team with daily check-ins and co-designed RM, EERD, and HIPO diagrams, resulting in a well-documented and structured development process.
 
 ### 🗺️ SwiftTrek – Travel Planner Application
-**React, Firebase Auth + Realtime DB, Docker | Group of 5 | Mar. 2025 - Apr. 2025**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Group of 5 | Mar. 2025 - Apr. 2025**
 - Developed the Guest UI component for a full-stack CRUD travel planner using React and Firebase (Auth + Realtime DB), resulting in a responsive, secure experience for travelers to browse and plan trips.
 - Collaborated in a 5-member Agile-style team with daily check-ins across business, admin, and guest roles, resulting in efficient progress tracking, issue resolution, and cohesive feature integration.
 - Contributed to the Docker-based deployment and Firebase integration, resulting in scalable, real-time functionality across all user-facing components.
