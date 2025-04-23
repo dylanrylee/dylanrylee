@@ -7,7 +7,7 @@
 
 🎓 As a co-op student, I value hands-on learning and collaborative development. I’ve led and contributed to various real-world projects, from museum management systems to secure password apps, and I’m always seeking opportunities to grow through building.
 
-🎸 Outside of code, you’ll find me playing guitar—music has always been my creative outlet and a way to recharge.
+🎸 When I'm not buried in code, you'll find me strumming my guitar. Music has been a big part of my life since I was young, and it's my way of unwinding and expressing myself. 
 
 💡 I'm excited to continue exploring the world of tech, connect with like-minded developers, and build projects that make an impact. Let’s connect and create something awesome together!
 
