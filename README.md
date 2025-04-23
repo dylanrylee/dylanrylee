@@ -80,7 +80,7 @@
 - Led the frontend & backend development in creating complete CRUD functionality with real-time updates, while contributing to Agile planning priorities to accelerate development.
 
 ### 📈 Retail Sales Forecasting Dashboard
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
