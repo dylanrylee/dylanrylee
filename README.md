@@ -17,6 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -50,7 +51,11 @@
 
 ## 💼 Project Portfolio 💼
 ### 🏛️ MuseoTrack – Museum & Artifact DBMS
-**React, Django REST API, MySQL | Group of 3 | Feb. 2025 - Apr. 2025**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+**| Group of 3 | Feb. 2025 - Apr. 2025**
 - Built a full-stack CRUD museum management app with React, Django REST API, and MySQL, using JWT auth and raw SQL, resulting in a secure, multi-role platform for managing users, artifacts, events, and exhibits. 
 - Led the frontend & backend development, creating custom REST endpoints with @api_view and integrating them via axios and fetch, resulting in seamless data flow and real-time interactivity. 
 - Collaborated in a 3-person Agile-style team with daily check-ins and co-designed RM, EERD, and HIPO diagrams, resulting in a well-documented and structured development process.
