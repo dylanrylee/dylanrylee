@@ -72,3 +72,9 @@
 - Implemented MVC architecture to enhance modularity and maintainability, separating business logic from the GUI frontend while ensuring robust input validation.
 - Developed a Logging class for real-time activity tracking and integrated a .txt-based database to ensure data persistence and reliability.
 
+## 👐 Volunteer Experience 👐
+### Affordable Laser Care – Web Developer
+**Calgary, Alberta | React, HTML/CSS, JavaScript | Dec. 2024 - Present**
+- Designed and developed a fully responsive, visually appealing static website to enhance the business's online presence, increasing local customer engagement and brand visibility.
+- Collaborated closely with the business owner to tailor the website’s design, layout, and functionality, ensuring seamless responsiveness and strong alignment with overall business goals.
+- Followed an agile-inspired approach with weekly check-ins and iterations to refine the web solution in close collaboration with the business owner.
