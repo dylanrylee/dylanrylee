@@ -38,6 +38,14 @@
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-1.1-blue?style=for-the-badge)
+![HTTPS](https://img.shields.io/badge/HTTPS-Secure-green?style=for-the-badge)|
+![Sockets](https://img.shields.io/badge/Sockets-TCP%2FUDP-critical?style=for-the-badge)
+![TCP](https://img.shields.io/badge/TCP-Protocol-red?style=for-the-badge)
+![UDP](https://img.shields.io/badge/UDP-Protocol-orange?style=for-the-badge) 
+![Multi-threading](https://img.shields.io/badge/Multi--Threading-Java-informational?style=for-the-badge)
+![Custom Protocol](https://img.shields.io/badge/Custom-FTP%20Protocol-red?style=for-the-badge)
+![Stop and Wait](https://img.shields.io/badge/Stop--and--Wait-Protocol-orange?style=for-the-badge)
 
 
 ## 💼 Project Portfolio 💼
@@ -63,30 +71,50 @@
 - Contributed to the Docker-based deployment and Firebase integration, resulting in scalable, real-time functionality across all user-facing components.
 
 ### 🔒 Vaultify – Password Manager App
-**React, Firebase Auth + Realtime DB | Group of 5 | Mar. 2025 - Apr. 2025**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Group of 5 | Mar. 2025 - Apr. 2025**
 - Designed a secure password manager using React and Firebase, delivering a fully functional MVP in 2.5 weeks.
 - Implemented AES encryption and decryption with Crypto-js to ensure end-to-end security, eliminating plaintext password storage and safeguarding user credentials. 
 - Led the frontend & backend development in creating complete CRUD functionality with real-time updates, while contributing to Agile planning priorities to accelerate development.
 
 ### 📈 Retail Sales Forecasting Dashboard
-**Python (Prophet), PowerBI, Pandas | Apr. 2025**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Apr. 2025**
 - Engineered a time-series forecasting pipeline using Facebook Prophet in Python, preprocessing retail sales data with Pandas and generating 90-day rolling predictions, enabling demand estimation and early trend detection.
 - Designed an interactive PowerBI dashboard with KPI cards, slicers, and charts to display forecasted sales and confidence intervals, improving visibility of trends and uncertainty across all time periods.
 - Added bar charts, line charts, and a forecast table for granular analysis of sales by date, including upper/lower bound predictions, providing stakeholders with actionable insight for data-driven decisions.
 
 ### 🧠 CFL Draft ML Model
-**Python, Pandas, NumPy, TensorFlow, Keras, Scikit-learn, Jupyter Notebook | Oct. 2024 - Nov. 2024**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Oct. 2024 - Nov. 2024**
 - Developed a machine learning model using TensorFlow and Keras, implementing deep learning techniques to predict CFL draft outcomes, improving player evaluation accuracy.
 - Preprocessed and cleaned CFL draft data using Pandas and Scikit-learn, applying label encoding, feature scaling, and transformations, ensuring high-quality input for training.
 - Trained the model with regularization techniques and optimization strategies, reducing overfitting and enhancing generalization.
 
 ### 🌐 Multi-Threaded Web Server
-**Java, HTTP/1.1, Sockets | Oct. 2024 - Nov. 2024**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTTP/1.1](https://img.shields.io/badge/HTTP-1.1-blue?style=for-the-badge)
+![Sockets](https://img.shields.io/badge/Sockets-TCP%2FUDP-critical?style=for-the-badge)
+
+**Oct. 2024 - Nov. 2024**
 - Developed a multi-threaded web server to efficiently handle multiple clients’ non-persistent HTTP GET requests, improving concurrency and scalability for increased workload capacity.
 - Implemented robust request validation to ensure proper request formatting, detect anomalies, and detailed return error responses for invalid/missing files, enhancing reliability and user experience.
 - Utilized Java’s ServerSocket and multithreading techniques to efficiently manage concurrent client connections, optimizing responsiveness, stability, and performance.
 
 ### 📤 Stop & Wait FTP Client
+
 **Java, TCP/UDP, Stop-and-Wait Protocol | Nov. 2024 - Dec. 2024**
 - Designed a custom reliable UDP file transfer protocol using Stop-and-Wait, improving data transmission reliability by preventing packet loss and ensuring successful delivery through ACKs and retransmissions.
 - Developed a robust hybrid TCP/UDP system, utilizing a TCP handshake for secure session initiation and UDP for fast, efficient, and low-latency data transfer, optimizing performance for real-time applications.
