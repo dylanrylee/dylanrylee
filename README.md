@@ -118,7 +118,7 @@
 
 ### 📤 Stop & Wait FTP Client
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Sockets](https://img.shields.io/badge/Sockets-critical?style=for-the-badge)
+![Sockets](https://img.shields.io/badge/Sockets-TCP%2FUDP-critical?style=for-the-badge)
 ![Stop and Wait](https://img.shields.io/badge/Stop--and--Wait-Protocol?style=for-the-badge)
 
 **Nov. 2024 - Dec. 2024**
