@@ -130,7 +130,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Sockets](https://img.shields.io/badge/Sockets-TCP%2FUDP-critical?style=for-the-badge)
 ![HTTP](https://img.shields.io/badge/HTTP-blue?style=for-the-badge)
-![HTTPS](https://img.shields.io/badge/HTTPS-Secure?style=for-the-badge)|
+![HTTPS](https://img.shields.io/badge/HTTPS-Secure?style=for-the-badge)
 
 **Sep. 2024 - Oct. 2024**
 - Developed a WebClient program that downloads text & binary web objects via HTTP/HTTPS requests, improving file retrieval efficiency.
