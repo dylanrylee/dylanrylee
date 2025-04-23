@@ -105,7 +105,7 @@
 
 ### 🌐 Multi-Threaded Web Server
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTTP/1.1](https://img.shields.io/badge/HTTP-1.1-blue?style=for-the-badge)
+![HTTP](https://img.shields.io/badge/HTTP/1.1-b?style=for-the-badge)
 ![Sockets](https://img.shields.io/badge/Sockets-TCP%2FUDP-critical?style=for-the-badge)
 
 **Oct. 2024 - Nov. 2024**
@@ -114,14 +114,22 @@
 - Utilized Java’s ServerSocket and multithreading techniques to efficiently manage concurrent client connections, optimizing responsiveness, stability, and performance.
 
 ### 📤 Stop & Wait FTP Client
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Sockets](https://img.shields.io/badge/Sockets-critical?style=for-the-badge)
+![Stop and Wait](https://img.shields.io/badge/Stop--and--Wait-Protocol?style=for-the-badge)
 
-**Java, TCP/UDP, Stop-and-Wait Protocol | Nov. 2024 - Dec. 2024**
+**Nov. 2024 - Dec. 2024**
 - Designed a custom reliable UDP file transfer protocol using Stop-and-Wait, improving data transmission reliability by preventing packet loss and ensuring successful delivery through ACKs and retransmissions.
 - Developed a robust hybrid TCP/UDP system, utilizing a TCP handshake for secure session initiation and UDP for fast, efficient, and low-latency data transfer, optimizing performance for real-time applications.
 - Optimized protocol performance through efficient payload segmentation, ACK handling, dynamic retransmission timers, and adaptive timeouts to enhance reliability and minimize latency.
 
 ### 🌐 Web Object Downloader
-**Java, HTTP/HTTPS, Sockets | Sep. 2024 - Oct. 2024**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Sockets](https://img.shields.io/badge/Sockets-TCP%2FUDP-critical?style=for-the-badge)
+![HTTP](https://img.shields.io/badge/HTTP-blue?style=for-the-badge)
+![HTTPS](https://img.shields.io/badge/HTTPS-Secure?style=for-the-badge)|
+
+**Sep. 2024 - Oct. 2024**
 - Developed a WebClient program that downloads text & binary web objects via HTTP/HTTPS requests, improving file retrieval efficiency.
 - Implemented TCP connections, created GET requests, and manually parsed server responses using Sockets and Streams, ensuring precise data transfer.
 - Handled HTTP/1.1 protocols for secure (HTTPS) and non-secure (HTTP) data transfer, storing files locally, supporting real-world networked environments.
@@ -133,14 +141,25 @@
 - Proposed security best practices in the design such as encryption (AES-256, RSA), IDS/IPS, and employee cybersecurity training to strengthen system resilience and compliance.
 
 ### 🧸 Toy Store DBMS GUI
-**Java, MVC, JUnit, XML, Scene Builder | Feb. 2023 - Apr. 2023**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-blue?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![FXML](https://img.shields.io/badge/FXML_JavaFX%20-informational?style=for-the-badge)
+![Scene Builder](https://img.shields.io/badge/Scene%20Builder-%20GUI-informational?style=for-the-badge)
+
+**Feb. 2023 - Apr. 2023**
 - Designed a Toy Store database application to manage inventory, tracking unique serial numbers, pricing, and stock levels for efficient stock management.
 - Implemented MVC architecture to enhance modularity and maintainability, separating business logic from the GUI frontend while ensuring robust input validation.
 - Developed a Logging class for real-time activity tracking and integrated a .txt-based database to ensure data persistence and reliability.
 
 ## 👐 Volunteer Experience 👐
 ### Affordable Laser Care – Web Developer
-**Calgary, Alberta | React, HTML/CSS, JavaScript | Dec. 2024 - Present**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-blueviolet?style=for-the-badge)
+
+**Calgary, Alberta | Dec. 2024 - Present**
 - Designed and developed a fully responsive, visually appealing static website to enhance the business's online presence, increasing local customer engagement and brand visibility.
 - Collaborated closely with the business owner to tailor the website’s design, layout, and functionality, ensuring seamless responsiveness and strong alignment with overall business goals.
 - Followed an agile-inspired approach with weekly check-ins and iterations to refine the web solution in close collaboration with the business owner.
