@@ -5,7 +5,7 @@
 
 🚀 I'm passionate about solving problems and creating meaningful digital experiences. Whether it's building full-stack web applications or exploring the depths of Python programming, I’m always looking to challenge myself and learn something new. Lately, I’ve been expanding my skills in Web Development, Firebase, and Django, while diving into the mathematics behind Artificial Intelligence and Machine Learning through self-study.
 
-🎓 As a co-op student, I value hands-on learning and collaborative development. I’ve led and contributed to various real-world projects, from museum management systems to secure password apps—and I’m always seeking opportunities to grow through building.
+🎓 As a co-op student, I value hands-on learning and collaborative development. I’ve led and contributed to various real-world projects, from museum management systems to secure password apps, and I’m always seeking opportunities to grow through building.
 
 🎸 Outside of code, you’ll find me playing guitar—music has always been my creative outlet and a way to recharge.
 
