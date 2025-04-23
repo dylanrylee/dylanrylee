@@ -1,13 +1,15 @@
 # Hi I'm Dylan! #
 
 ## About Me ##
-👋 Hi there! I'm Dylan Dizon, a Computer Science student at the University of Calgary. Originally, I'm from the Philippines, but I've been calling Canada home since 2015. 
+👋 Hi there! I'm Dylan Dizon, a Computer Science student at the University of Calgary and a proud participant in the Science Co-op Program. Originally from the Philippines, I’ve been calling Canada home since 2015.
 
-🌟 I'm really into figuring things out and making cool stuff with computers. From writing code to building programs, I'm always eager to dive into new challenges. Right now, I'm currently diving deeper into Python Programming, and Web Development, trying to expand my knowledge and skills by building projects that I am passionate about. I'm also very interested in mathematics, and I am currently enjoying self-learning the mathematics behind Artificial Intelligence and Machine Learning. 
+🚀 I'm passionate about solving problems and creating meaningful digital experiences. Whether it's building full-stack web applications or exploring the depths of Python programming, I’m always looking to challenge myself and learn something new. Lately, I’ve been expanding my skills in Web Development, Firebase, and Django, while diving into the mathematics behind Artificial Intelligence and Machine Learning through self-study.
 
-🎸 When I'm not buried in code, you'll find me strumming my guitar. Music has been a big part of my life since I was young, and it's my way of unwinding and expressing myself. 
+🎓 As a co-op student, I value hands-on learning and collaborative development. I’ve led and contributed to various real-world projects, from museum management systems to secure password apps—and I’m always seeking opportunities to grow through building.
 
-🚀 I'm excited to keep learning and growing in the world of technology. Every day is a chance to discover something new and push myself further. I'm eager to connect with others who share my passion and see how we can collaborate to create amazing things together. Let's chat and explore the possibilities!
+🎸 Outside of code, you’ll find me playing guitar—music has always been my creative outlet and a way to recharge.
+
+💡 I'm excited to continue exploring the world of tech, connect with like-minded developers, and build projects that make an impact. Let’s connect and create something awesome together!
 
 ## 💼 Project Portfolio 💼
 ### 🏛️ MuseoTrack – Museum & Artifact DBMS
