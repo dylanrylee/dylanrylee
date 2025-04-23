@@ -19,7 +19,8 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-Authentication-yellow?style=for-the-badge&logo=firebase&logoColor=orange)
+![Firebase DB](https://img.shields.io/badge/Firebase%20Realtime%20DB-NoSQL_Realtime_DB-blue?style=for-the-badge&logo=firebase&logoColor=orange)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -62,7 +63,8 @@
 
 ### 🗺️ SwiftTrek – Travel Planner Application
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-Authentication-yellow?style=for-the-badge&logo=firebase&logoColor=orange)
+![Firebase DB](https://img.shields.io/badge/Firebase%20Realtime%20DB-NoSQL_Realtime_DB-blue?style=for-the-badge&logo=firebase&logoColor=orange)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Group of 5 | Mar. 2025 - Apr. 2025**
@@ -72,7 +74,8 @@
 
 ### 🔒 Vaultify – Password Manager App
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-Authentication-yellow?style=for-the-badge&logo=firebase&logoColor=orange)
+![Firebase DB](https://img.shields.io/badge/Firebase%20Realtime%20DB-NoSQL_Realtime_DB-blue?style=for-the-badge&logo=firebase&logoColor=orange)
 
 **Group of 5 | Mar. 2025 - Apr. 2025**
 - Designed a secure password manager using React and Firebase, delivering a fully functional MVP in 2.5 weeks.
