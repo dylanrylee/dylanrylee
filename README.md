@@ -9,34 +9,12 @@
 
 🚀 I'm excited to keep learning and growing in the world of technology. Every day is a chance to discover something new and push myself further. I'm eager to connect with others who share my passion and see how we can collaborate to create amazing things together. Let's chat and explore the possibilities!
 
-## Portfolio ##
-### Toy Store App GUI ###
-##### What? #####
-- Structured and implemented the backend framework using MVC architecture for scalability and maintainability, with a Logging class for real-time activity and Exceptions classes for robust input validation for data integrity.
-- Enhanced the GUI for improved user interaction and achieved seamless data persistence through database integration.
-- Conducted unit tests on components, including valid toys in the database, to ensure quality assurance.
-##### How? #####
-- Backend Language: Java, providing a robust and versatile foundation for core logic and functionality.
-- Frontend Development: Utilized XML and Scene Builder for creating a user-friendly and visually appealing interface.
-- Testing Framework: Used JUnit to create and run comprehensive test cases, ensuring code reliability and correctness.
-##### Results? #####
-- A robust and scalable Toy Store application with effective text file database management capabilities.
-- Enhanced user interaction through a well-designed GUI and real-time activity logging, along with improved data integrity.
-- Reliable application performance ensured by comprehensive unit tests, demonstrating high maintainability and scalability.
+## 💼 Portfolio 
+### 🗺️ SwiftTrek – Travel Planner Application
+**React, Firebase Auth + Realtime DB, Docker | Group of 5**
+- Developed the Guest UI component for a full-stack CRUD travel planner using React and Firebase (Auth + Realtime DB), resulting in a responsive, secure experience for travelers to browse and plan trips.
+- Collaborated in a 5-member Agile-style team with daily check-ins across business, admin, and guest roles, resulting in efficient progress tracking, issue resolution, and cohesive feature integration.
+- Contributed to the Docker-based deployment and Firebase integration, resulting in scalable, real-time functionality across all user-facing components.
 
-### Web Object Downloader ###
-##### What? #####
-- Developed a WebClient program for downloading web objects from URLs.
-- Implemented functionality to handle both text and binary file downloads.
-- Ensured compliance with HTTP/1.1 protocols for secure and non-secure connections.
-##### How? #####
-- Established TCP connections and constructed GET requests for data retrieval.
-- Used Sockets, InputStream, and OutputStream to manage data transfer effectively.
-- Parsed server responses manually to handle different file types and formats.
-##### Results? #####
-- Successfully downloaded and stored text and binary files locally.
-- Achieved seamless handling of secure (HTTPS) and non-secure (HTTP) connections.
-- Demonstrated reliable and efficient data transfer, adhering to web standards.
-   
   
   
