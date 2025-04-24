@@ -12,7 +12,7 @@
 💡 I'm excited to continue exploring the world of tech, connect with like-minded developers, and build projects that make an impact. Let’s connect and create something awesome together!
 
 ## 💼 Project Portfolio 💼
-#### 🏛️ MuseoTrack – Museum & Artifact DBMS
+### 🏛️ MuseoTrack – Museum & Artifact DBMS
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -23,7 +23,7 @@
 - Led the frontend & backend development, creating custom REST endpoints with @api_view and integrating them via axios and fetch, resulting in seamless data flow and real-time interactivity. 
 - Collaborated in a 3-person Agile-style team with daily check-ins and co-designed RM, EERD, and HIPO diagrams, resulting in a well-documented and structured development process.
 
-#### 🗺️ SwiftTrek – Travel Planner Application
+### 🗺️ SwiftTrek – Travel Planner Application
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-grey?style=for-the-badge&logo=firebase&logoColor=orange)
 ![Firebase DB](https://img.shields.io/badge/Firebase%20Realtime_NoSQL_DB-black?style=for-the-badge&logo=firebase&logoColor=orange)
@@ -34,7 +34,7 @@
 - Collaborated in a 5-member Agile-style team with daily check-ins across business, admin, and guest roles, resulting in efficient progress tracking, issue resolution, and cohesive feature integration.
 - Contributed to the Docker-based deployment and Firebase integration, resulting in scalable, real-time functionality across all user-facing components.
 
-#### 🔒 Vaultify – Password Manager App
+### 🔒 Vaultify – Password Manager App
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-grey?style=for-the-badge&logo=firebase&logoColor=orange)
 ![Firebase DB](https://img.shields.io/badge/Firebase%20Realtime_NoSQL_DB-black?style=for-the-badge&logo=firebase&logoColor=orange)
@@ -44,7 +44,7 @@
 - Implemented AES encryption and decryption with Crypto-js to ensure end-to-end security, eliminating plaintext password storage and safeguarding user credentials. 
 - Led the frontend & backend development in creating complete CRUD functionality with real-time updates, while contributing to Agile planning priorities to accelerate development.
 
-#### 📈 Retail Sales Forecasting Dashboard
+### 📈 Retail Sales Forecasting Dashboard
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -54,7 +54,7 @@
 - Designed an interactive PowerBI dashboard with KPI cards, slicers, and charts to display forecasted sales and confidence intervals, improving visibility of trends and uncertainty across all time periods.
 - Added bar charts, line charts, and a forecast table for granular analysis of sales by date, including upper/lower bound predictions, providing stakeholders with actionable insight for data-driven decisions.
 
-#### 🧠 CFL Draft ML Model
+### 🧠 CFL Draft ML Model
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -68,7 +68,7 @@
 - Preprocessed and cleaned CFL draft data using Pandas and Scikit-learn, applying label encoding, feature scaling, and transformations, ensuring high-quality input for training.
 - Trained the model with regularization techniques and optimization strategies, reducing overfitting and enhancing generalization.
 
-#### 🌐 Multi-Threaded Web Server
+### 🌐 Multi-Threaded Web Server
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP/1.1-b?style=for-the-badge)
 ![Sockets](https://img.shields.io/badge/Sockets-TCP%2FUDP-critical?style=for-the-badge)
@@ -78,7 +78,7 @@
 - Implemented robust request validation to ensure proper request formatting, detect anomalies, and detailed return error responses for invalid/missing files, enhancing reliability and user experience.
 - Utilized Java’s ServerSocket and multithreading techniques to efficiently manage concurrent client connections, optimizing responsiveness, stability, and performance.
 
-#### 📤 Stop & Wait FTP Client
+### 📤 Stop & Wait FTP Client
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Sockets](https://img.shields.io/badge/Sockets-TCP%2FUDP-critical?style=for-the-badge)
 ![Stop and Wait](https://img.shields.io/badge/Stop--and--Wait-Protocol?style=for-the-badge)
@@ -88,7 +88,7 @@
 - Developed a robust hybrid TCP/UDP system, utilizing a TCP handshake for secure session initiation and UDP for fast, efficient, and low-latency data transfer, optimizing performance for real-time applications.
 - Optimized protocol performance through efficient payload segmentation, ACK handling, dynamic retransmission timers, and adaptive timeouts to enhance reliability and minimize latency.
 
-#### 🌐 Web Object Downloader
+### 🌐 Web Object Downloader
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Sockets](https://img.shields.io/badge/Sockets-TCP%2FUDP-critical?style=for-the-badge)
 ![HTTP](https://img.shields.io/badge/HTTP-blue?style=for-the-badge)
@@ -99,7 +99,7 @@
 - Implemented TCP connections, created GET requests, and manually parsed server responses using Sockets and Streams, ensuring precise data transfer.
 - Handled HTTP/1.1 protocols for secure (HTTPS) and non-secure (HTTP) data transfer, storing files locally, supporting real-world networked environments.
 
-#### 🛡️ Bank Information Security System Design
+### 🛡️ Bank Information Security System Design
 ![Attack Trees](https://img.shields.io/badge/Threat%20Model-Attack%20Trees-important?style=for-the-badge&logo=codewars)
 ![Security Architecture](https://img.shields.io/badge/Security-Architecture-critical?style=for-the-badge&logo=datadog)
 
@@ -108,7 +108,7 @@
 - Developed detailed threat models using attack trees to systematically analyze and mitigate threats like phishing, SQL injection, MiTM attacks, enhancing risk assessment and mitigation strategies.
 - Proposed security best practices in the design such as encryption (AES-256, RSA), IDS/IPS, and employee cybersecurity training to strengthen system resilience and compliance.
 
-#### 🧸 Toy Store DBMS GUI
+### 🧸 Toy Store DBMS GUI
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-blue?style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
@@ -121,7 +121,7 @@
 - Developed a Logging class for real-time activity tracking and integrated a .txt-based database to ensure data persistence and reliability.
 
 ## 👐 Volunteer Experience 👐
-#### Affordable Laser Care – Web Developer
+### Affordable Laser Care – Web Developer
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
