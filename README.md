@@ -1,5 +1,5 @@
 # Hi I'm Dylan! #
----
+
 ## About Me ##
 👋 Hi there! I'm Dylan Dizon, a Computer Science student at the University of Calgary and a proud participant in the Science Co-op Program. Originally from the Philippines, I’ve been calling Canada home since 2015.
 
