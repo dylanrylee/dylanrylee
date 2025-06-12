@@ -10,8 +10,7 @@ I'm a Computer Science student passionate about building full-stack apps, design
 - **GIS & FinTech** (3D visualization, financial systems)
 
 ### 🛠️ Technologies I Use
-`Java` `Python` `JavaScript` `TypeScript` `React` `Spring Boot` `MongoDB` `MySQL`  
-`TensorFlow` `Docker` `Firebase` `Power BI` `Three.js` `Flask` `GitHub Actions`  
+`Java` `Python` `C#` `JavaScript` `TypeScript` `HTML5` `CSS3` `React` `React Native` `Spring Boot` `Apache Maven` `Django` `Flask` `MySQL` `Firebase (Auth + Firestore)` `MongoDB` `Tailwind CSS` `Oracle DB`
 
 ### 🔍 Featured Projects
 
