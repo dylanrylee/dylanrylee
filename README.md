@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of Calgary passionate about bui
 
 ## 💡 About Me
 
-- 🎓 BSc in Computer Science  
+- 🎓 BSc in Computer Science (Co-op Program)
 - 📍 Based in Calgary, Alberta  
 - 💼 Interested in software development, AI/ML, data science, cloud, cybersecurity, GIS, and fintech  
 - 🚀 Always building and learning—one project at a time
