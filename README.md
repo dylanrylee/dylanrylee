@@ -57,34 +57,32 @@ I'm a Computer Science student at the University of Calgary passionate about bui
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-
 ---
 
 ## 📂 Projects
 
-### [OmniQuest](https://github.com/dylan/omniquest) (May 2025 - Present)
+### [OmniQuest](https://github.com/dylanrylee/OmniQuest) (May 2025 - Present)
 React Native, TypeScript, HTML5, CSS3, Spring Boot, Java, Apache Maven, OpenAI LLM, MongoDB, AWS (S3, EC2)
 
-### [UAV Drone Simulator](https://github.com/dylan/uav-drone-sim) (Apr 2025 - May 2025)
-
+### [UAV Drone Simulator](https://github.com/dylanrylee/UAV_Drone_Simulator) (Apr 2025 - May 2025)
 React, JavaScript, HTML5, CSS3, Flask, Python
 
-### [Vaultify](https://github.com/dylan/vaultify) (Mar 2025 - Apr 2025)
+### [Vaultify](https://github.com/dylanrylee/Vaultify) (Mar 2025 - Apr 2025)
 React, JavaScript, HTML5, CSS3, Firebase (Auth + Firestore)
 
-### [MuseoTrack](https://github.com/dylan/museotrack) (Feb 2025 - Apr 2025)
+### [MuseoTrack](https://github.com/dylanrylee/MuseoTrack) (Feb 2025 - Apr 2025)
 React, JavaScript, HTML5, CSS3, Django, Python, MySQL
 
-### [SwiftTrek](https://github.com/dylan/swifttrek) (Jan 2025 - Apr 2025)
+### [SwiftTrek](https://github.com/dylanrylee/SwiftTrek) (Jan 2025 - Apr 2025)
 React, JavaScript, HTML5, CSS3, Firebase (Auth + Firestore), Docker
 
-### [Soccer Games Scheduler](https://github.com/dylan/soccer-scheduler) (Sep 2024 - Dec 2024)
+### [Soccer Games Scheduler](https://github.com/dylanrylee/And-Tree-based_AI_Soccer_Scheduler) (Sep 2024 - Dec 2024)
 Python, Algorithm Design
 
-### [Multi-threaded HTTP Server](https://github.com/dylan/http-server-java) (Nov 2024)
+### [Multi-threaded HTTP Server](https://github.com/dylanrylee/MultiThreadedWebServer) (Nov 2024)
 Java, Sockets
 
-### [Toy Inventory System](https://github.com/dylan/toy-inventory) (Feb 2023 - Apr 2023)
+### [Toy Inventory System](https://github.com/dylanrylee/ToyStoreAppGUI) (Feb 2023 - Apr 2023)
 Java, JavaFX, Scene Builder, JUnit
 
 ---
