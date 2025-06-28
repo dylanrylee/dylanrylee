@@ -8,19 +8,16 @@ I'm a Computer Science student at the University of Calgary with a strong intere
 
 - 🎓 BSc in Computer Science (Co-op Program)
 - 📍 Based in Calgary, Alberta  
-- 💼 Interested in software development, AI/ML, data science, cloud, cybersecurity, GIS, and fintech  
+- 💼 ML Developer Intern @ AUAV Tech Inc (Partnered via ECSSEN) + Part-Time SWE Intern @ KDIT Solutions Inc
 - 🚀 Always building and learning—one project at a time
 
 ---
 
 ## 🎯 Interests
-
-- Full-Stack Development  
-- Machine Learning & Data Science  
+- Machine Learning & Data Science (GIS, Finance/FinTech, Healthcare)
+- Software Engineering
 - Cybersecurity & Systems Programming  
 - DevOps & Cloud Infrastructure  
-- GIS & 3D Visualization  
-- Fintech & Data Analytics
 
 ---
 
