@@ -61,11 +61,11 @@ I'm a Computer Science student at the University of Calgary passionate about bui
 
 ## 📂 Projects
 
-- [OmniQuest](https://github.com/dylanrylee/OmniQuest)
+- [OmniQuest - AI-Powered Mobile Fitness App](https://github.com/dylanrylee/OmniQuest)
 - [UAV Drone Simulator](https://github.com/dylanrylee/UAV_Drone_Simulator)
-- [Vaultify](https://github.com/dylanrylee/Vaultify)
-- [MuseoTrack](https://github.com/dylanrylee/MuseoTrack) 
-- [SwiftTrek](https://github.com/dylanrylee/SwiftTrek)
+- [Vaultify - Full-Stack Password Manager App](https://github.com/dylanrylee/Vaultify)
+- [MuseoTrack - Full-Stack Browsing-Museums Website](https://github.com/dylanrylee/MuseoTrack) 
+- [SwiftTrek - Full-Stack Travel Planner Website](https://github.com/dylanrylee/SwiftTrek)
 - [Soccer Games Scheduler](https://github.com/dylanrylee/And-Tree-based_AI_Soccer_Scheduler)
 - [Multi-threaded HTTP Server](https://github.com/dylanrylee/MultiThreadedWebServer)
 - [Toy Inventory System](https://github.com/dylanrylee/ToyStoreAppGUI)
