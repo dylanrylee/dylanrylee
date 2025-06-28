@@ -57,11 +57,6 @@ I'm a Computer Science student at the University of Calgary with a strong intere
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
----
-
-Python        ▓▓▓▓▓▓▓▓▓░░░░░░ 75%  
-React         ▓▓▓▓▓▓▓░░░░░░░░ 50%  
-Spring Boot   ▓▓▓▓▓░░░░░░░░░░ 35%  
 
 ---
 
