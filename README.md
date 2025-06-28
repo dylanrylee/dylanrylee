@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dylan!
 
-I'm a Computer Science student at the University of Calgary passionate about building full-stack systems, intelligent applications, and impactful tools. I love working across the stack—from crafting user interfaces to designing secure backend systems and training ML models.
+I'm a Computer Science student at the University of Calgary with a strong interest in Machine Learning and Data Science, which aligns with my current work. I'm also passionate about Software Engineering—designing scalable systems, developing clean APIs, and building full-stack applications. Lately, I've been exploring Cybersecurity as well, aiming to understand how to build systems that are not only powerful but also secure.
 
 ---
 
