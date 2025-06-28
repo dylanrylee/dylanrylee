@@ -59,9 +59,12 @@ I'm a Computer Science student at the University of Calgary with a strong intere
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dylandizon&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylandizon&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=dylandizon&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dylanrylee&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanrylee&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dylanrylee&theme=radical)
+
 ---
 
 ## 📂 Projects
