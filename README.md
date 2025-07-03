@@ -7,7 +7,7 @@ I'm a Computer Science student @ University of Calgary with heavy interest in Ma
 
 - 🎓 BSc in Computer Science (Co-op Program)
 - 📍 Based in Calgary, Alberta  
-- 💼 ML Developer Intern @ AUAV Tech Inc (Partnered via ECSSEN) + Part-Time SWE Intern @ KDIT Solutions Inc
+- 💼 Machine Learning Intern @ AUAV Tech Inc.
 - 🚀 Always building and learning—one project at a time
 
 ---
