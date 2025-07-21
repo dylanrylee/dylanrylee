@@ -70,4 +70,5 @@ I'm a Computer Science student @ University of Calgary with heavy interest in Ma
 ---
 
 ## 📬 Contact
-[LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | [Portfolio Website](https://dylanrylee.github.io/Portfolio)
+[LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | [Resume](https://img.shields.io/badge/Resume-PDF-red)](./resume.pdf)
+
