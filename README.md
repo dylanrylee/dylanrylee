@@ -7,7 +7,7 @@ I'm a Computer Science student @ University of Calgary with heavy interest in Ma
 
 - 🎓 BSc in Computer Science (Co-op Program)
 - 📍 Based in Calgary, Alberta  
-- 💼 Machine Learning Intern @ AUAV Tech Inc.
+- 💼 Unemployed :(
 - 🚀 Always building and learning—one project at a time
 
 ---
@@ -68,6 +68,9 @@ I'm a Computer Science student @ University of Calgary with heavy interest in Ma
 - [Toy Inventory System](https://github.com/dylanrylee/ToyStoreAppGUI)
 
 ---
+
+## 💼 Experience
+- AI/ML Development Intern @ AdvancedUAV Tech Inc.
 
 ## 📬 Contact
 [LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | [Resume](https://github.com/dylanrylee/dylanrylee/blob/main/Dylan_Dizon_Resume.pdf)
