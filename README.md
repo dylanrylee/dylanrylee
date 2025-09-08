@@ -70,7 +70,7 @@ I'm a Computer Science student @ University of Calgary with heavy interest in Ma
 ---
 
 ## 💼 Experience
-- AI/ML Development Intern @ AdvancedUAV Tech Inc.
+- Machine Learning Developer Intern @ AdvancedUAV Tech Inc.
 
 ## 📬 Contact
 [LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | [Resume](https://github.com/dylanrylee/dylanrylee/blob/main/Dylan_Dizon_Resume.pdf)
