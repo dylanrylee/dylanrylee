@@ -7,7 +7,7 @@ I'm a Computer Science student @ University of Calgary with heavy interest in Ma
 
 - 🎓 BSc in Computer Science (Co-op Program)
 - 📍 Based in Calgary, Alberta  
-- 💼 Unemployed :(
+- 💼 SWE Intern @ MASIV
 - 🚀 Always building and learning—one project at a time
 
 ---
