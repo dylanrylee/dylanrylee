@@ -7,8 +7,13 @@ I'm a Computer Science student @ University of Calgary with heavy interest in Ma
 
 - 🎓 BSc in Computer Science (Co-op Program)
 - 📍 Based in Calgary, Alberta  
-- 💼 SWE Intern @ MASIV
 - 🚀 Always building and learning—one project at a time
+
+---
+
+## 💼 Experience
+- Software Engineer Intern @ MASIV - Mercedes and Singh Innovative Ventures (Sep. 2025 - Present)
+- Machine Learning & Data Science Intern @ AdvancedUAV Tech Inc. (June 2025 - Aug. 2025)
 
 ---
 
@@ -68,9 +73,6 @@ I'm a Computer Science student @ University of Calgary with heavy interest in Ma
 - [Toy Inventory System](https://github.com/dylanrylee/ToyStoreAppGUI)
 
 ---
-
-## 💼 Experience
-- Machine Learning Developer Intern @ AdvancedUAV Tech Inc.
 
 ## 📬 Contact
 [LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | [Resume](https://github.com/dylanrylee/dylanrylee/blob/main/Dylan_Dizon_Resume.pdf)
