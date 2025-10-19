@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dylan!
-I'm a Computer Science student @ University of Calgary with heavy interest in Machine Learning and Data Science, which aligns with my current work. I'm also passionate about Software Engineering, where I can design scalable systems, develop clean APIs, and build useful full-stack applications that solve real world problems. I have also been exploring Cybersecurity because I aim to understand how to build systems that are not only powerful, but also safe and secure.
+I'm a Computer Science student @ UCalgary who is passionate about software development, machine learning / data science, and cloud. Experienced with Python, Java, Django, Spring Boot, TensorFlow, Pandas, SQL/NoSQL, and AWS. I am eager to keep growing, and hone my skills as I hope to one day be at the forefront of the tech industry. Feel free to connect with me and message!
 
 ---
 
@@ -13,7 +13,8 @@ I'm a Computer Science student @ University of Calgary with heavy interest in Ma
 
 ## 💼 Experience
 - Software Engineer Intern @ MASIV - Mercedes and Singh Innovative Ventures (Sep. 2025 - Present)
-- Machine Learning & Data Science Intern @ AdvancedUAV Tech Inc. (June 2025 - Aug. 2025)
+- Machine Learning Developer Intern @ AdvancedUAV Tech Inc. (June 2025 - Aug. 2025)
+- DevOps Developer Intern (Par-Time) @ KDIT Solutions Inc. (June 2025 - July 2025)
 
 ---
 
