@@ -76,5 +76,5 @@ I'm a Computer Science student @ UCalgary who is passionate about software devel
 ---
 
 ## 📬 Contact
-[LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | [Resume](https://github.com/dylanrylee/dylanrylee/blob/main/Dylan_Dizon_Resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon)
 
