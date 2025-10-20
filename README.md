@@ -44,8 +44,9 @@ I'm a Computer Science student @ UCalgary who is passionate about software devel
 ---
 
 ## 📂 Projects
+Here are some of the projects I have done, scoping from software development, cybersecurity, and machine learning.
+- \href{https://github.com/dylanrylee/swifttrek}{SwiftTrek - Travel Planner Website}
 
----
 
 ## 💼 Experience
 | Position | Dates |
