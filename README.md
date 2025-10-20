@@ -1,13 +1,5 @@
 # 👋 Hi, I'm Dylan!
-I'm a Computer Science student @ UCalgary who is passionate about software development, machine learning / data science, and cloud. Experienced with Python, Java, Django, Spring Boot, TensorFlow, Pandas, SQL/NoSQL, and AWS. I am eager to keep growing, and hone my skills as I hope to one day be at the forefront of the tech industry. Feel free to connect with me and message!
-
----
-
-## 💡 About Me
-
-- 🎓 BSc in Computer Science (Co-op Program)
-- 📍 Based in Calgary, Alberta  
-- 🚀 Always building and learning—one project at a time
+I'm a Computer Science student @ UCalgary who is passionate about software development, machine learning / data science, cybersecurity, and cloud. Experienced with Python, Java, Django, Spring Boot, TensorFlow, Pandas, SQL/NoSQL, and AWS. I am eager to keep growing, and hone my skills as I hope to one day be at the forefront of the tech industry. Feel free to connect with me and message!
 
 ---
 
@@ -18,15 +10,7 @@ I'm a Computer Science student @ UCalgary who is passionate about software devel
 
 ---
 
-## 🎯 Interests
-- Machine Learning & Data Science (GIS, Finance/FinTech, Healthcare)
-- Software Engineering
-- Cybersecurity & Systems Programming  
-- DevOps & Cloud Infrastructure  
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Languages & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -68,17 +52,8 @@ I'm a Computer Science student @ UCalgary who is passionate about software devel
 
 ## 📂 Projects
 
-- [OmniQuest - AI-Powered Mobile Fitness App](https://github.com/dylanrylee/OmniQuest)
-- [UAV Drone Simulator](https://github.com/dylanrylee/UAV_Drone_Simulator)
-- [Vaultify - Full-Stack Password Manager App](https://github.com/dylanrylee/Vaultify)
-- [MuseoTrack - Full-Stack Browsing-Museums Website](https://github.com/dylanrylee/MuseoTrack) 
-- [SwiftTrek - Full-Stack Travel Planner Website](https://github.com/dylanrylee/SwiftTrek)
-- [Soccer Games Scheduler](https://github.com/dylanrylee/And-Tree-based_AI_Soccer_Scheduler)
-- [Multi-threaded HTTP Server](https://github.com/dylanrylee/MultiThreadedWebServer)
-- [Toy Inventory System](https://github.com/dylanrylee/ToyStoreAppGUI)
-
 ---
 
 ## 📬 Contact
-[LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon)
+[LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | dylan.dizon@ucalgary.ca
 
