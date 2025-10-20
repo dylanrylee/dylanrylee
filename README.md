@@ -48,9 +48,10 @@ I'm a Computer Science student @ UCalgary who is passionate about software devel
 ---
 
 ## 💼 Experience
-- Software Engineer Intern @ MASIV - Mercedes and Singh Innovative Ventures (Sep. 2025 - Present)
-- Machine Learning Developer Intern @ AdvancedUAV Tech Inc. (June 2025 - Aug. 2025)
-- DevOps Developer Intern (Part-Time) @ KDIT Solutions Inc. (June 2025 - July 2025)
+<p align="left">
+  <strong>Software Engineering Intern @ MASIV</strong>
+  <span style="float:right;">Sep 2025 – Present</span>
+</p>
 
 ## 📬 Contact
 [LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | dylan.dizon@ucalgary.ca
