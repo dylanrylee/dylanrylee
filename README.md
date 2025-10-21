@@ -45,7 +45,29 @@ I'm a Computer Science student @ UCalgary who is passionate about software devel
 
 ## 📂 Projects
 Here are some of the projects I have done, scoping from software development, cybersecurity, and machine learning.
-- \href{https://github.com/dylanrylee/swifttrek}{SwiftTrek - Travel Planner Website}
+- **[MuseoTrack – Museums Tracking System](https://github.com/dylanrylee/museotrack)**  
+  *Python, Django, React, MySQL, AWS, Docker, GitHub Actions*
+
+- **[X-ray Pneumonia Detector](https://github.com/dylanrylee/pneumonia-detector)**  
+  *Python, TensorFlow/Keras, Scikit-Learn, Grad-CAM*
+
+- **[UAV Drone Ground Control Mock App](https://github.com/dylanrylee/uav-drone-simulator)**  
+  *Python, Flask, React, JavaScript, Pytest*
+
+- **[Vaultify – Password Manager App](https://github.com/dylanrylee/vaultify)**  
+  *React, JavaScript, Firebase (Auth + Firestore)*
+
+- **[SwiftTrek – Travel Planner Website](https://github.com/dylanrylee/swifttrek)**  
+  *React, JavaScript, Firebase (Auth + Firestore), Docker, Selenium*
+
+- **[LLM-Powered 3D Urban Dashboard](https://github.com/dylanrylee/3d-urban-dashboard)**  
+  *Python, Flask, React, JavaScript, Gemini API, SQLite, Postman*
+
+- **[Multi-Threaded HTTP Chatroom](https://github.com/dylanrylee/multithreaded-chatroom)**  
+  *Java, Sockets, TCP/HTTP (SSE)*
+
+- **[Algorithmic Match Scheduler (And-Tree Search)](https://github.com/dylanrylee/soccer-games-scheduler)**  
+  *Python, Algorithm Design*
 
 
 ## 💼 Experience
