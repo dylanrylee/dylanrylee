@@ -68,7 +68,7 @@ Here are some of the projects I have done, scoping from software development, cy
 
 - **[Algorithmic Match Scheduler (And-Tree Search)](https://github.com/dylanrylee/soccer-games-scheduler)**  
   *Python, Algorithm Design*
-
+---
 
 ## 💼 Experience
 | Position | Dates |
@@ -77,7 +77,7 @@ Here are some of the projects I have done, scoping from software development, cy
 | **Machine Learning Developer Intern @ AdvancedUAV Tech Inc.** | June 2025 - Aug. 2025 |
 | **DevOps Developer Intern @ KDIT Solutions Inc.** | June 2025 - July 2025 |
 
-
+---
 ## 📬 Contact
 [LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | dylan.dizon@ucalgary.ca
 
