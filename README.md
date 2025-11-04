@@ -73,9 +73,9 @@ Here are some of the projects I have done, scoping from software development, cy
 ## 💼 Experience
 | Position | Dates |
 |-----------|--------|
+| **Software Development Intern @ Canadian Natural Resources Limited (CNRL)** | Incoming Jan. 2026 |
 | **Software Engineering Intern @ MASIV** | Sep 2025 – Present |
-| **Machine Learning Developer Intern @ AdvancedUAV Tech Inc.** | June 2025 - Aug. 2025 |
-| **DevOps Developer Intern @ KDIT Solutions Inc.** | June 2025 - July 2025 |
+| **ML / Computer Vision Intern @ AdvancedUAV Tech** | June 2025 - Aug. 2025 |
 
 ---
 ## 📬 Contact
