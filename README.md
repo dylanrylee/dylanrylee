@@ -35,7 +35,7 @@
 ![UML](https://img.shields.io/badge/UML-007ACC?style=flat&logo=diagramsdotnet&logoColor=white)
 
 
-## <p align="center">Projects</p>
+## Projects
 - **[MuseoTrack – Museums Tracking System](https://github.com/dylanrylee/museotrack)**  
   *Python, Django, React, MySQL, AWS, Docker, GitHub Actions*
 
@@ -60,7 +60,7 @@
 - **[Algorithmic Match Scheduler (And-Tree Search)](https://github.com/dylanrylee/soccer-games-scheduler)**  
   *Python, Algorithm Design*
 
-## <p align="center">Experience</p>
+## Experience
 
 **Software Developer Intern @ Canadian Natural Resources Limited (CNRL)** <br> 
 *Incoming Jan. 2026* 
@@ -74,6 +74,6 @@
 **Software Developer Intern @ KDIT Solutions Inc.** <br> 
 *June 2025 - July 2025* 
 
-## <p align="center">Contact</p>
+## Contact
 [LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | dylan.dizon@ucalgary.ca
 
