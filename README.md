@@ -1,4 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Dylan!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+<svg width="100%" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="55" fill="#ffffff" font-size="48" font-weight="700">
+    Hi, I’m Dylan
+  </text>
+</svg>
+
 
 I'm a Computer Science Co-op student @ UCalgary who is passionate about system design, machine learning, software dev, cybersecurity, and cloud. Experienced with Python, Java, TypeScript, TensorFlow, NumPy, SQL/NoSQL, and AWS. I like to play the guitar, reading comic books / mangas, and listening to music. Feel free to connect with me and message!
 
