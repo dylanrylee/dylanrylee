@@ -1,4 +1,16 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Dylan!
+<!-- save this as handwriting.svg inside your repo -->
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+    .title {
+      font-family: 'Caveat', cursive;
+      font-size: 60px;
+      fill: #333;
+    }
+  </style>
+  <text x="10" y="80" class="title">Hi, I'm Dylan!</text>
+</svg>
+
 I'm a Computer Science student @ UCalgary who is passionate about system design, machine learning, software dev, cybersecurity, and cloud. Experienced with Python, Java, TypeScript, TensorFlow, NumPy, SQL/NoSQL, and AWS. I am eager to keep growing, and hone my skills as I hope to one day be at the forefront of the tech industry. Feel free to connect with me and message!
 
 ---
@@ -71,11 +83,17 @@ Here are some of the projects I have done, scoping from software development, cy
 ---
 
 ## 💼 Experience
-| Position | Dates |
-|-----------|--------|
-| **Software Development Intern @ Canadian Natural Resources Limited (CNRL)** | Incoming Jan. 2026 |
-| **Software Engineering Intern @ MASIV** | Sep 2025 – Present |
-| **ML / Computer Vision Intern @ AdvancedUAV Tech** | June 2025 - Aug. 2025 |
+**Software Developer Intern @ Canadian Natural Resources Limited (CNRL)**
+*Incoming Jan. 2026*
+
+**Software Engineer Intern @ MASIV | Mercedes and Singh Innovative Ventures**
+*Sep. 2025 - Nov. 2025*
+
+**Machine Learning Developer Intern @ AdvancedUAV Tech Inc.**
+*May 2025 - Aug. 2025*
+
+**Software Developer Intern @ KDIT Solutions Inc.**
+*June 2025 - July 2025*
 
 ---
 ## 📬 Contact
