@@ -64,17 +64,17 @@
   *Python, Algorithm Design*
 
 ## 💼 Experience
-- **Software Developer Intern @ Canadian Natural Resources Limited (CNRL)**
-  *Incoming Jan. 2026*
+**Software Developer Intern @ Canadian Natural Resources Limited (CNRL)**
+*Incoming Jan. 2026*
 
-- **Software Engineer Intern @ MASIV | Mercedes and Singh Innovative Ventures**
-  *Sep. 2025 - Nov. 2025*
+**Software Engineer Intern @ MASIV | Mercedes and Singh Innovative Ventures**
+*Sep. 2025 - Nov. 2025*
 
-- **Machine Learning Developer Intern @ AdvancedUAV Tech Inc.**
+**Machine Learning Developer Intern @ AdvancedUAV Tech Inc.**
   *May 2025 - Aug. 2025*
 
-- **Software Developer Intern @ KDIT Solutions Inc.**
-  *June 2025 - July 2025*
+**Software Developer Intern @ KDIT Solutions Inc.**
+*June 2025 - July 2025*
 
 ## 📬 Contact
 [LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | dylan.dizon@ucalgary.ca
