@@ -1,18 +1,4 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Dylan!
-![handwriting](./handwriting.svg)
-
-<!-- save this as handwriting.svg inside your repo -->
-<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
-    .title {
-      font-family: 'Caveat', cursive;
-      font-size: 60px;
-      fill: #333;
-    }
-  </style>
-  <text x="10" y="80" class="title">Hi, I'm Dylan!</text>
-</svg>
 
 I'm a Computer Science student @ UCalgary who is passionate about system design, machine learning, software dev, cybersecurity, and cloud. Experienced with Python, Java, TypeScript, TensorFlow, NumPy, SQL/NoSQL, and AWS. I am eager to keep growing, and hone my skills as I hope to one day be at the forefront of the tech industry. Feel free to connect with me and message!
 
