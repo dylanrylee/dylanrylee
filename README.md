@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dylan!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Dylan!
 I'm a Computer Science student @ UCalgary who is passionate about system design, machine learning, software dev, cybersecurity, and cloud. Experienced with Python, Java, TypeScript, TensorFlow, NumPy, SQL/NoSQL, and AWS. I am eager to keep growing, and hone my skills as I hope to one day be at the forefront of the tech industry. Feel free to connect with me and message!
 
 ---
