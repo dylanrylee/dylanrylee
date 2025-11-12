@@ -41,16 +41,16 @@
   *Python, Django, React, MySQL, AWS, Docker, GitHub Actions*
 
 - **[X-ray Pneumonia Detector](https://github.com/dylanrylee/pneumonia-detector)**  
-  *Python, TensorFlow/Keras, Scikit-Learn, Grad-CAM*
+  *Python, TensorFlow/Keras, Scikit-Learn, Streamlit*
 
 - **[UAV Drone Ground Control Mock App](https://github.com/dylanrylee/uav-drone-simulator)**  
   *Python, Flask, React, JavaScript, Pytest*
 
 - **[Vaultify – Password Manager App](https://github.com/dylanrylee/vaultify)**  
-  *React, JavaScript, Firebase (Auth + Firestore)*
+  *React, JavaScript, Firebase*
 
 - **[SwiftTrek – Travel Planner Website](https://github.com/dylanrylee/swifttrek)**  
-  *React, JavaScript, Firebase (Auth + Firestore), Docker, Selenium*
+  *React, JavaScript, Firebase, Docker, Selenium*
 
 - **[LLM-Powered 3D Urban Dashboard](https://github.com/dylanrylee/3d-urban-dashboard)**  
   *Python, Flask, React, JavaScript, Gemini API, SQLite, Postman*
