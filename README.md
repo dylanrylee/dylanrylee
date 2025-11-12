@@ -65,13 +65,16 @@
 <p align="center">
   <strong>Software Developer Intern @ Canadian Natural Resources Limited (CNRL)</strong><br>
   <em>Incoming Jan. 2026</em><br><br>
-
+</p>
+<p align="center">
   <strong>Software Engineer Intern @ MASIV | Mercedes and Singh Innovative Ventures</strong><br>
   <em>Sep. 2025 – Nov. 2025</em><br><br>
-
+</p>
+<p align="center">
   <strong>Machine Learning Developer Intern @ AdvancedUAV Tech Inc.</strong><br>
   <em>May 2025 – Aug. 2025</em><br><br>
-
+</p>
+<p align="center">
   <strong>Software Developer Intern @ KDIT Solutions Inc.</strong><br>
   <em>Jun. 2024 – Jul. 2024</em>
 </p>
