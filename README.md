@@ -1,3 +1,6 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Dylan!
+![handwriting](./handwriting.svg)
+
 <!-- save this as handwriting.svg inside your repo -->
 <svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
   <style>
