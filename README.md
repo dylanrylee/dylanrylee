@@ -39,7 +39,6 @@
 
 
 ## 📂 Projects
-Here are some of the projects I have done, scoping from software development, cybersecurity, and machine learning.
 - **[MuseoTrack – Museums Tracking System](https://github.com/dylanrylee/museotrack)**  
   *Python, Django, React, MySQL, AWS, Docker, GitHub Actions*
 
