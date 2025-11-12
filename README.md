@@ -35,7 +35,7 @@
 ![UML](https://img.shields.io/badge/UML-007ACC?style=flat&logo=diagramsdotnet&logoColor=white)
 
 
-## Projects
+## <p align="center">Projects</p>
 - **[MuseoTrack – Museums Tracking System](https://github.com/dylanrylee/museotrack)**  
   *Python, Django, React, MySQL, AWS, Docker, GitHub Actions*
 
@@ -60,25 +60,20 @@
 - **[Algorithmic Match Scheduler (And-Tree Search)](https://github.com/dylanrylee/soccer-games-scheduler)**  
   *Python, Algorithm Design*
 
-## Experience
+## <p align="center">Experience</p>
 
-<p align="center">
-  <strong>Software Developer Intern @ Canadian Natural Resources Limited (CNRL)</strong><br>
-  <em>Incoming Jan. 2026</em><br><br>
-</p>
-<p align="center">
-  <strong>Software Engineer Intern @ MASIV | Mercedes and Singh Innovative Ventures</strong><br>
-  <em>Sep. 2025 – Nov. 2025</em><br><br>
-</p>
-<p align="center">
-  <strong>Machine Learning Developer Intern @ AdvancedUAV Tech Inc.</strong><br>
-  <em>May 2025 – Aug. 2025</em><br><br>
-</p>
-<p align="center">
-  <strong>Software Developer Intern @ KDIT Solutions Inc.</strong><br>
-  <em>Jun. 2024 – Jul. 2024</em>
-</p>
+**Software Developer Intern @ Canadian Natural Resources Limited (CNRL)** <br> 
+*Incoming Jan. 2026* 
 
-## Contact
+**Software Engineer Intern @ MASIV | Mercedes and Singh Innovative Ventures** <br> 
+*Sep. 2025 - Nov. 2025* 
+
+**Machine Learning Developer Intern @ AdvancedUAV Tech Inc.** <br> 
+*May 2025 - Aug. 2025* 
+
+**Software Developer Intern @ KDIT Solutions Inc.** <br> 
+*June 2025 - July 2025* 
+
+## <p align="center">Contact</p>
 [LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | dylan.dizon@ucalgary.ca
 
