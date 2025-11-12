@@ -60,7 +60,7 @@
 - **[Algorithmic Match Scheduler (And-Tree Search)](https://github.com/dylanrylee/soccer-games-scheduler)**  
   *Python, Algorithm Design*
 
-## 💼 Experience
+## Experience
 **Software Developer Intern @ Canadian Natural Resources Limited (CNRL)** <br>
 *Incoming Jan. 2026*
 
@@ -73,6 +73,6 @@
 **Software Developer Intern @ KDIT Solutions Inc.** <br>
 *June 2025 - July 2025*
 
-## 📬 Contact
+## Contact
 [LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | dylan.dizon@ucalgary.ca
 
