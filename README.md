@@ -61,8 +61,8 @@
   *Python, Algorithm Design*
 
 ## Experience
-<p align="center">
 
+<p align="center">
   <strong>Software Developer Intern @ Canadian Natural Resources Limited (CNRL)</strong><br>
   <em>Incoming Jan. 2026</em><br><br>
 
@@ -74,7 +74,6 @@
 
   <strong>Software Developer Intern @ KDIT Solutions Inc.</strong><br>
   <em>Jun. 2024 – Jul. 2024</em>
-
 </p>
 
 ## Contact
