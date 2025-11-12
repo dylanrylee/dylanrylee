@@ -61,7 +61,7 @@
   *Python, Algorithm Design*
 
 ## 💼 Experience
-**Software Developer Intern @ Canadian Natural Resources Limited (CNRL)**
+**Software Developer Intern @ Canadian Natural Resources Limited (CNRL)** <br>
 *Incoming Jan. 2026*
 
 **Software Engineer Intern @ MASIV | Mercedes and Singh Innovative Ventures**
