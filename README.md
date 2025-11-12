@@ -62,6 +62,7 @@
 
 ## Experience
 <p align="center">
+ 
 **Software Developer Intern @ Canadian Natural Resources Limited (CNRL)** <br>
 *Incoming Jan. 2026*
 
