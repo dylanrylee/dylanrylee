@@ -1,7 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi! I'm Dylan
 
----
-
 ## 🛠️ Languages & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -40,8 +38,6 @@
 ![UML](https://img.shields.io/badge/UML-007ACC?style=flat&logo=diagramsdotnet&logoColor=white)
 
 
----
-
 ## 📂 Projects
 Here are some of the projects I have done, scoping from software development, cybersecurity, and machine learning.
 - **[MuseoTrack – Museums Tracking System](https://github.com/dylanrylee/museotrack)**  
@@ -67,7 +63,6 @@ Here are some of the projects I have done, scoping from software development, cy
 
 - **[Algorithmic Match Scheduler (And-Tree Search)](https://github.com/dylanrylee/soccer-games-scheduler)**  
   *Python, Algorithm Design*
----
 
 ## 💼 Experience
 - **Software Developer Intern @ Canadian Natural Resources Limited (CNRL)**
@@ -82,7 +77,6 @@ Here are some of the projects I have done, scoping from software development, cy
 - **Software Developer Intern @ KDIT Solutions Inc.**
   *June 2025 - July 2025*
 
----
 ## 📬 Contact
 [LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | dylan.dizon@ucalgary.ca
 
