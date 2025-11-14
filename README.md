@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat&logo=mongodb&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -33,6 +33,9 @@
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-8A2BE2?style=flat&logo=gitbook&logoColor=white)
 ![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-2496ED?style=flat&logo=jira&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-007ACC?style=flat&logo=diagramsdotnet&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF7F00?style=flat&logo=bookstack&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-0A66C2?style=flat&logo=visualstudio&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-795548?style=flat&logo=protocols&logoColor=white)
 
 
 ## Projects
