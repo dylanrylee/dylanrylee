@@ -1,5 +1,5 @@
 # Hi! I'm Dylan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I'm a computer science co-op student @ ucalgary, passionate about system design, machine learning, and cloud. I like to play the guitar and read comic books. I'm continuing to grow and hone my skills as I hope to one day be at the forefront of the tech industry. Feel free to connect with and message! <br>
+I'm a computer science co-op student @ ucalgary, passionate about system design, machine learning, and cloud. I like to play the guitar and read comic books. I'm continuing to grow and hone my skills as I hope to one day be at the forefront of the tech industry. Feel free to connect with and message! <br><br>
 [LinkedIn](https://www.linkedin.com/in/dylan-rylee-dizon) | dylan.dizon@ucalgary.ca <br><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
