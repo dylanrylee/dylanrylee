@@ -71,7 +71,7 @@ I'm a computer science co-op student @ ucalgary, passionate about system design,
 *Incoming Jan. 2026* 
 
 **Software Engineer Intern @ MASIV | Mercedes and Singh Innovative Ventures** <br> 
-*Sep. 2025 - Nov. 2025* 
+*Sep. 2025 - Present* 
 
 **Machine Learning Developer Intern @ AdvancedUAV Tech Inc.** <br> 
 *May 2025 - Aug. 2025* 
