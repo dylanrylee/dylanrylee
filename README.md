@@ -76,5 +76,5 @@ I'm a computer science co-op student @ ucalgary, passionate about system design,
 **Machine Learning Developer Intern @ AdvancedUAV Tech Inc.** <br> 
 *May 2025 - Aug. 2025* 
 
-**Software Developer Intern @ KDIT Solutions Inc.** <br> 
-*June 2025 - July 2025* 
+**Software Engineer Intern @ Jentle Touch** <br>
+*Jan. 2025 - Apr. 2025*
