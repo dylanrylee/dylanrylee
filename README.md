@@ -70,10 +70,10 @@ I'm a computer science co-op student @ ucalgary, passionate about system design,
 **Software Developer Intern @ Canadian Natural Resources Limited (CNRL)** <br> 
 *Incoming Jan. 2026* 
 
-**Software Engineer Intern @ MASIV | Mercedes and Singh Innovative Ventures** <br> 
+**Software Engineer Intern @ H.O.M.E AI | Housing Optimized for Modular Engineering** <br> 
 *Sep. 2025 - Present* 
 
-**Machine Learning Developer Intern @ AdvancedUAV Tech Inc.** <br> 
+**Machine Learning Developer Intern @ AdvancedUAV Tech** <br> 
 *May 2025 - Aug. 2025* 
 
 **Software Engineer Intern @ Jentle Touch** <br>
