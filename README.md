@@ -71,7 +71,7 @@ I'm a computer science co-op student @ ucalgary, passionate about system design,
 *Incoming Jan. 2026* 
 
 **Software Engineer Intern @ H.O.M.E AI | Housing Optimized for Modular Engineering** <br> 
-*Sep. 2025 - Present* 
+*[Sep. 2025 - Present]* 
 
 **Machine Learning Developer Intern @ AdvancedUAV Tech** <br> 
 *May 2025 - Aug. 2025* 
