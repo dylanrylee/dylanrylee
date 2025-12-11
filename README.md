@@ -62,7 +62,7 @@ I'm a computer science co-op student @ ucalgary, passionate about system design,
 - **[Multi-Threaded HTTP Chatroom](https://github.com/dylanrylee/multithreaded-chatroom)**  
   *Java, Sockets, TCP/HTTP (SSE)*
 
-- **[Algorithmic Match Scheduler (And-Tree Search)](https://github.com/dylanrylee/soccer-games-scheduler)**  
+- **[Soccer Match Scheduler Optimizer](https://github.com/dylanrylee/soccer-games-scheduler)**  
   *Python, Algorithm Design*
 
 ## Experience
