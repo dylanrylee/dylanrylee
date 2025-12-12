@@ -36,3 +36,14 @@
 ![OOP](https://img.shields.io/badge/OOP-FF7F00?style=flat&logo=bookstack&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-0A66C2?style=flat&logo=visualstudio&logoColor=white)
 ![SDLC](https://img.shields.io/badge/SDLC-795548?style=flat&logo=protocols&logoColor=white)
+
+
+### some of my projects
+- **[MuseoTrack – Museums Tracking System](https://github.com/dylanrylee/museotrack)**  
+- **[X-ray Pneumonia Detector](https://github.com/dylanrylee/pneumonia-detector)**  
+- **[UAV Drone Ground Control Mock App](https://github.com/dylanrylee/uav-drone-simulator)**  
+- **[Vaultify – Password Manager App](https://github.com/dylanrylee/vaultify)**  
+- **[SwiftTrek – Travel Planner Website](https://github.com/dylanrylee/swifttrek)**  
+- **[LLM-Powered 3D Urban Dashboard](https://github.com/dylanrylee/3d-urban-dashboard)**  
+- **[Multi-Threaded HTTP Chatroom](https://github.com/dylanrylee/multithreaded-chatroom)**  
+- **[Soccer Match Scheduler Optimizer](https://github.com/dylanrylee/soccer-games-scheduler)**  
