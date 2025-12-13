@@ -1,7 +1,7 @@
 # Hi! I'm Dylan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-\> Computer Science Co-op Student @ University of Calgary
-\> Interested in Machine Learning, Distributed Systems, Optimization, and Infrastructure
-\> Strong in Collaboration, Problem-Solving, and Adaptability
+\> Computer Science Co-op Student @ University of Calgary <br>
+\> Interested in Machine Learning, Distributed Systems, Optimization, and Infrastructure <br>
+\> Strong in Collaboration, Problem-Solving, and Adaptability <br>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
